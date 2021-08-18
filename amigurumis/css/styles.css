@@ -1,0 +1,38 @@
+@import url('ink.css');
+
+body{
+    background-color: #fff0f7;
+}
+
+.banner-img{
+
+}
+.img{
+    height: 350px;
+    width: 600px;
+}
+
+.card{
+    border: solid 2px #baa7b1;
+}
+
+.btn{
+    height: 50px;
+    background-color: #e8d1dc;
+}
+
+.img-content{
+    border-radius: 50px;
+}
+
+.content{
+    margin-top: 75px;
+}
+
+.producto{
+    border: solid 2px #baa7b1;
+}
+
+.footer{
+    border-top: 2px solid black;
+}
