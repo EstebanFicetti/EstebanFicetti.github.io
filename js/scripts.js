@@ -1,5 +1,6 @@
-$(document).ready(function(){
-    $("button").click(function(){
-        $("#box").load("/moreProducts.html");
-    });
+$ (document).ready(function() {
+    $('#btn').click(function(){
+        console.log('puta')
+        $('#box').load('moreProducts.html');
+    })
 });
